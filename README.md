@@ -1,4 +1,4 @@
-```md
+
 # To-Do List (React + Spring Boot + PostgreSQL)
 
 ## 🛠 Tech Stack
